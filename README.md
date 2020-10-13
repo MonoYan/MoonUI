@@ -8,19 +8,19 @@ UI课设，一个简介音乐播放APP页面设计。
 
 ## Preview
 
-![Find](Preview/Find)
+![Find](Preview/Find.png)
 
-![Player](Preview/Player)
+![Player](Preview/Player.png)
 
-![List](Preview/List)
+![List](Preview/List.png)
 
-![User](Preview/User)
+![User](Preview/User.png)
 
 
 
 ## 素材使用情况
 
-![IconPark](IMG/IconPark)
+![IconPark](IMG/IconPark.png)
 
 **IconPark** 
 
@@ -32,7 +32,7 @@ UI课设，一个简介音乐播放APP页面设计。
 
 
 
-![Snapmod](IMG/Snapmod)
+![Snapmod](IMG/Snapmod.png)
 
 **Snapmod**
 
